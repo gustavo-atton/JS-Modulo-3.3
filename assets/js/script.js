@@ -33,4 +33,9 @@ pintar3(ele); // Pinta por defecto en verde
 ele.addEventListener("click", () => pintar3(ele, "yellow")); // Pinta amarillo con el click 
 
 
+/* ---------------------------------------------------------------------------------------------------------- */
+
+
+
+
 
